@@ -1,5 +1,5 @@
 # BeepBlobb
-Cut video (mp4) on recorded audio cue
+Cut video (mp4) on predefined and recorded audio cues
 
 This code was originally created to retrospectively cut videos to the same length as simultaneously acquired kinematic recordings (Vicon motion capture system 3D). The original recording-start sound "capture started" was replaced by a "beep" and the original recording-stop stound "capture completed" was replaced by a "blobb" sound. After setting up additional cameras which captured the motion of the individual (here: left and right arm seperately) the bat script (windows) can retrospectively cut the video into the correct single trial files. For best results, it is important to have the sound of the vicon system close to the capturing camera. Or you can use different sounds, depending on the sound spectrum in the recording room. 
 
