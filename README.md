@@ -11,3 +11,4 @@ This is what the .bat file does: <br>
 4 octave: extracts start and end times from spectrogram and saves them to file <br>
 5 ffmpeg: cuts the video respective to time from latter file <br>
 
+requires: ffmpeg, octave, Input and Outputfolder
